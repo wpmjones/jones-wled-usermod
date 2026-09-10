@@ -1,6 +1,6 @@
-# WLED usermod example
+# WLED usermod
 
-This repository is a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for building your own [WLED](https://github.com/wled/WLED) usermod as a standalone project. Create a new repository from it, add your code, link it to WLED, and make the world a brighter place!
+This repository is a usermod standalone project. This allows us to create our own effects for the WLED lights in our home.
 
 ## Getting started
 
